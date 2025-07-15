@@ -20,7 +20,7 @@ This is a Java-based desktop application (CSCI24000 Final Project) to manage pac
 ```bash 
  1) Download the program from github. 
  2) In the terminal Navigate to the location of the file. 
- 3) type make jar 
+ 3) type make 
  4) After the compile type java -jar package_tracking.jar and this will run the program. 
 
  Admin Credentials:
